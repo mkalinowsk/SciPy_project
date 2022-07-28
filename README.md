@@ -26,4 +26,4 @@ vega_datasets\
 ipywidgets
 
 #### Installation 
-ihnfi
+Download the release and run on local machine. Keep in mind to check pd.read_csv("<your_path>")
