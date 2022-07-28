@@ -1,0 +1,53 @@
+main(df)
+    read csv
+
+    price_point_plot(df):
+        calc average_price 
+        np.cov(df)
+        -scatter plot
+
+    average_price_plot(df):
+        calc average_price_country 
+        return bar plot
+
+    taster_specialization(df):
+        tp_percentages(tot_vals, spec_vals):
+            return spec_vals 
+
+        best_three_arrays(tot_vals, spec_vals):
+            return three arrays(first, second, third)
+
+        sort_arrays(first, second, third, fourth): forth is for the taster list to have the correct order
+            return (first, second, third, fourth)
+            
+        bar plot with different specializations 
+
+    word_appearance.py: not as a function because of jupyter widgets. 
+        to_list(df, category, min_size):
+            return list with needed categories
+        choose_data(df, category, choice):
+            return dataframe with needed rows and colums    
+        count_words(df):
+            return dataframe with flavor as index and quantity as first colum   
+        plot_word_freqs(df, category, choice):
+            "interactive bar plot" by calling interactive(with requiered parameters )
+        
+Plot description:
+plot 1-2 
+    The average price per country is between ~ 9 and ~ 85 Dollars when all countries are considered. 
+    If only the countries where more than 10 wines are produced are considered, the maximum average price is slightly higher than 50 Dollars.
+
+plot 3
+    In the plot, we can see that the average price and the number of points are positively correlated. The higher the number of points, the higher the average price.
+    Since there is no linear dependency, but an exponential one, the correlation coefficient of ~0.416 is relatively low. 
+
+plot 4-5
+    In the first plot, you can see the level of specialization in a province of a taster. The blue bars indicate the percentage of tastings in the province where the taster has made the most tastings. 
+    The orange bars indicate the percentage of tastings in the second most visited province and the green bars indicate the percentage of tastings in the third most visited province. 
+    The higher the blue bar of a taster is, the more specialized he is in a certain province. If the orange bar is also high (see e.g. Paul Gregutt) 
+    this shows a strong specialization in two different provinces and so on.
+    Analogous to the first plot, the second figure shows how specialized a taster is in a certain variety. Compared to the figure above, the specialization in certain varieties
+    is not as strong for most people (note that the Y scale here only goes up to 50%). In addition, it is noticeable that the three bars of a taster here usually do not differ as much as in the first figure. 
+     
+plot 6-8
+    With the following plots we can compare which characteristic words (flavours) are used to describe the wines in different countries / varieties / point ranges.          
