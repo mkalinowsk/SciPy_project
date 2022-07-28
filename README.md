@@ -3,7 +3,7 @@
 ## “Scientific Programming in Python” 
 Description of our project 
 
-#### Topic: 
+#### Topic 
 Wine comparison
 
 #### Goal of our project
@@ -23,8 +23,8 @@ Do certain characteristic words appear more often in the ratings than others? Do
 
 
 #### Used libraries
-pandas
-numpy 
-matplotlib
-vega_datasets
-ipywidgets 
+pandas\
+numpy \
+matplotlib\
+vega_datasets\
+ipywidgets \
