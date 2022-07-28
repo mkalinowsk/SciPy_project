@@ -1,6 +1,6 @@
-                                                                                                          28. July 2022
 ## “Scientific Programming in Python” 
 Description of our project 
+                                                                                                          28. July 2022
 
 #### Topic 
 Wine comparison
