@@ -24,4 +24,7 @@ vega_datasets\
 ipywidgets
 
 #### Installation 
-Download the release and run on local machine. Keep in mind to check pd.read_csv("<your_path>")
+The dataset is as an .zip folder in wine_analysis. Unlock the zip file. Keep in mind to check pd.read_csv("<your_path>").
+
+Have fun, 
+Jule and Marijke
