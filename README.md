@@ -1,4 +1,4 @@
-                                                                                                                                              28. July 2022
+                                                                                                          28. July 2022
 ## “Scientific Programming in Python” 
 Description of our project 
 
