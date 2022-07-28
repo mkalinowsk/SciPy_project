@@ -27,7 +27,6 @@ ipywidgets
 #### Installation 
 The dataset is as an .zip folder in wine_analysis. Unlock the zip file. Keep in mind to check pd.read_csv("<your_path>").
 
-##### Have fun 
-Jule and Marijke
+#### Have fun 
 
 Authors: Jule Grimm and Marijke Kalinowski
