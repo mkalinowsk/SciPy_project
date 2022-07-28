@@ -1,4 +1,5 @@
-## “Scientific Programming in Python” 
+## Wine Data Analysis 
+“Scientific Programming in Python”\
 Description of our project 
 
 #### Topic 
