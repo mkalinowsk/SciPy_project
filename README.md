@@ -4,7 +4,7 @@
 Description of our project 
 
 #### Topic: 
-##### Wine comparison
+Wine comparison
 
 #### Goal of our project
 Analyze and evaluate data about wine reviews 
@@ -14,9 +14,13 @@ It contains about 130.000 wine reviews. With several information about each wine
 
 #### Main Questions
 Does the average price of the wine correlate with the points (given by the wine taster)?
+
 Which country has the highest average price? What about those that have at least 10 wines?
+
 Do appraisers tend to specialize in one or two provinces? Do they specialize in certain varieties? 
+
 Do certain characteristic words appear more often in the ratings than others? Does this have anything to do with origin, variety or points of the wine?
+
 
 #### Used libraries
 pandas
