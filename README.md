@@ -1,16 +1,17 @@
-# SciPy project
-Description of our project
+### SciPy project
+
 ## “Scientific Programming in Python” 
+Description of our project 
 
 Topic: Wine comparison
 
-Goal of our project
+#### Goal of our project
 Analyze and evaluate data about wine reviews 
 
-About the Dataset
+#### About the Dataset
 It contains about 130.000 wine reviews. With several information about each wine like the price, variety, region, country etc. Each wine was tested by different wine testers who scored each wine. We downloaded the dataset from ‘Kaggle’.
 
-Main Questions
+#### Main Questions
 Does the average price of the wine correlate with the points (given by the wine taster)?
 Which country has the highest average price? What about those that have at least 10 wines?
 Do appraisers tend to specialize in one or two provinces? Do they specialize in certain varieties? 
