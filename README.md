@@ -1,5 +1,3 @@
-### SciPy project
-
 ## “Scientific Programming in Python” 
 Description of our project 
 
