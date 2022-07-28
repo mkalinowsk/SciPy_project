@@ -1,6 +1,6 @@
 ## Wine Data Analysis 
 “Scientific Programming in Python”\
-Description of our project 
+\Description of our project 
 
 #### Topic 
 Wine comparison
